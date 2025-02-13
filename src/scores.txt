@@ -1,0 +1,16 @@
+Homer Simpson
+45
+SpongeBob SquarePants
+89
+Tony Stark
+95
+Shrek Ogre
+72
+Scooby Doo
+68
+Mario Mario
+92
+Darth Vader
+99
+Bugs Bunny
+85
